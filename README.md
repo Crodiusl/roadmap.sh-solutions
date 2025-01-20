@@ -12,3 +12,5 @@ https://roadmap.sh/projects/basic-html-website
 Click any of this  links below to view projects:
 
 <a href="Frontend Projects/01-single-page-CV/index.html">Single Page CV</a>
+
+<a href="Frontend Projects/02-basic-html-website/Basic-HTML-Website.html"> Basic HTML Website<a>
